@@ -1,0 +1,11 @@
+{
+  "name": "chatcryptjs",
+  "version": "1.0.0",
+  "description": "Study create chat with socket.io with cryptografy p-p atlas mongo DB and jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
